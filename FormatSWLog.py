@@ -22,7 +22,7 @@ def extract_fields_and_generate_html(file_path):
 
     # Network and session info (hardcoded for now)
     src_interface = "a4:f9:33:cc:19:b5 (INTEL)"
-    dst_interface = "2c:b8:ed:b4:b9:28 (SONICWALL)"
+    dst_interface = "2c:68:ed:64:49:28 (SONICWALL)"
     src_ip = "10.0.31.6"
     dst_ip = "23.62.106.139"
     src_port = "61611"
